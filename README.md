@@ -1,6 +1,6 @@
 # Trailworks: ant colony laboratory
 
-![Project overview](docs/portfolio-cover.png)
+![Project overview](docs/project-overview.png)
 
 A complete Python agent-based foraging simulation with a local browser canvas interface. No external packages or build step are required. Requires Python 3.10+ and a modern browser.
 
