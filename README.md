@@ -42,8 +42,3 @@ The benchmark outputs runtime, food deliveries, and conservation checks using a 
 
 Requests from the UI are serialized. The server has one shared simulation and processes requests sequentially. Do not expose it as a multi-user production service.
 
-## Portfolio description
-
-“Built a Python ant colony simulation with pheromone-based navigation, explicit agent state, evaporation, obstacle avoidance, and seeded stochastic behavior. Added an interactive canvas interface, a local HTTP API, automated model tests, and a reproducible benchmark.”
-
-This project implements the ant colony portion of the CV. It does not implement the unfinished AI debate application or demonstrate a C++ implementation. Review and understand the code before describing your personal contribution; do not claim measured performance beyond benchmark results you have reproduced.
